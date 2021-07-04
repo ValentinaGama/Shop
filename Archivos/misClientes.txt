@@ -1,0 +1,9 @@
+1192456876,Juan Alárcón,Persona
+2345657987,Laura Olmedo,Persona
+2349876569,Qmaxi,Empresa
+1194786590,Laura Cortés,Persona
+1287456765,Kirchog,Empresa
+456789765,Juan Ruiz,Persona
+0000191736,Maria J. Mora,Persona
+1123453457,Juan Arias,Persona
+1897657457,Valeria Ruiz,Persona
